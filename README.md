@@ -1,4 +1,4 @@
-# 🐦 BirdCLEF 2026 Audio Classification
+# BirdCLEF 2026 Audio Classification
 
 A deep learning project for **multi-label wildlife species identification from passive acoustic recordings** developed for the BirdCLEF 2026 Kaggle competition.
 
